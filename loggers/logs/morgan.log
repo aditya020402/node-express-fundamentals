@@ -1,0 +1,2 @@
+::1 - - [25/Nov/2023:19:03:07 +0000] "GET / HTTP/1.1" 200 7 "-" "PostmanRuntime/7.35.0"
+::1 - - [25/Nov/2023:19:03:10 +0000] "GET /notfound HTTP/1.1" 404 36 "-" "PostmanRuntime/7.35.0"
